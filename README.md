@@ -11,17 +11,17 @@
 | ToDo | 序号 | 任务名 | 任务描述 | - |
 | --- | --- | --- | --- | --- |
 |  × | 1 | io_uring | 学习linux新的io驱动模型 | [c++20的协程实现的io_uring库](https://github.com/CarterLi/liburing4cpp) |
-|  <font color=Green size=2>ToDo</font> | 2 | ==evpp== | 学习一下C++的新特性,将evpp封装成自己的程序 | [share项目第34.evencpp](https://gitee.com/lixiaoxmm/share/tree/master/34.eventpp) [自己封装的](https://gitee.com/lixiaoxmm/eventpp_self.git)|
+|  <font color=Green size=2>DONE</font> | 2 | ==evpp== | 学习一下C++的新特性,将evpp封装成自己的程序 | [share项目第34.evencpp](https://gitee.com/lixiaoxmm/share/tree/master/34.eventpp) [自己封装的](https://gitee.com/lixiaoxmm/eventpp_self.git)|
 |  × | 3 | libasio | c++23要将它加入标准库,提前学习一下 | [libasio Github链接](https://github.com/dnybz/libasio) |
 |  × | 4 | c++11-17的变化表格 | 表格一个一个知识点看一下,结合bilibili视频来看 | [c++11-17特性图](https://blog.csdn.net/tkokof1/article/details/82527370)<br> [新特性讲的挺好是视频](https://www.bilibili.com/video/BV1ku411X73q)<br>  [模板检查,记录一下](https://qa.1r1g.com/sf/ask/457382901/?lastactivity)|
 |  × | 5 | workflow框架学习 | 找个开源的程序学习一下,我们的感知模块有用到这个思想,有用到DAG的数据结构(最好是找一个c++17以上写的)| |
 |  × | 6 | ==DAG数据结构和可视化== |学习一下DAG很多地方有用到,结合==egypt+graphviz==可视化c++软件流程和cyber节点可视化|==**++笔记在<<共享笔记->1.百度阿波罗->5.linux下graphviz>>文件夹下面,里面有各种教程++**== <br>[在线可视化转换](http://dreampuf.github.io/GraphvizOnline/#digraph%20first2%7B%0D%0Aa%3B%0D%0Ab%3B%0D%0Ac%3B%0D%0Ad%3B%0D%0Aa-%3Eb%3B%0D%0Ab-%3Ed%3B%0D%0Ac-%3Ed%3B%0D%0A%7D) |
-|  <font color=red size=2>ToDo</font> | 7 | ==CyberCmake== |自己在家封装的==cyber==框架,后续还要裁剪去掉没用的开源依赖,做成开源库开源出去|[自己的CyberCmake库-todo](https://gitee.com/lixiaoxmm/cyber-cmake.git) |
+|  <font color=red size=2>DONE</font> | 7 | ==CyberCmake== |自己在家封装的==cyber==框架,后续还要裁剪去掉没用的开源依赖,做成开源库开源出去|[自己的CyberCmake库-todo](https://gitee.com/lixiaoxmm/cyber-cmake.git) |
 |  × | 8 |==cuda==库异构加速学习| 有空的时候学习一下cuda编程,补一下知识盲区
 |  × | 9 |c++提效工具可以学习| 公众号分享的c++提效文章,有空可以学习一下|[C++提效网站](https://mp.weixin.qq.com/s/i0waRFSdUJnTsINaI7YLCQ) <br> [c++ 模板特性查找手册](https://cloud.tencent.com/developer/section/1012623)
 |  × | 10 |==程序员书籍<br>(全英文)==| 程序有关的所有书籍在这里都能找到下|[程序员书籍仓库-全英文](https://leanpub.com/)
 |  × | 11 |==c++的在线编程网站<br>(用来学习)==|在线编程网站,可以用来测试程序,带有汇编和自动展开功能,用来学习新特性原理很有用|[c++可视化工具](https://pythontutor.com/cpp.html#mode=display)[c++在线编程网站](https://cppinsights.io//) [demo 程序演示](https://note.youdao.com/) <br>[所有的在线c++网站有空可以看看](https://www.jb51.net/article/197290.htm)<br> [cppinsights 编译安装](https://www.jianshu.com/p/450b628b7f58)<br> [cpp转汇编](https://godbolt.org)<br>  [cpp在线编译测试网站](http://coliru.stacked-crooked.com/)
-|  <font color=red size=2>ToDo</font> | 12 | ==cyber_xmake== |自己在家封装的==cyber==框架,后续还要裁剪去掉没用的开源依赖,做成开源库开源出去|[自己的cyber_xmake库-todo](https://gitee.com/lixiaoxmm/cyber_xmake) |
+|  <font color=red size=2>DONE</font> | 12 | ==cyber_xmake== |自己在家封装的==cyber==框架,后续还要裁剪去掉没用的开源依赖,做成开源库开源出去|[自己的cyber_xmake库-todo](https://gitee.com/lixiaoxmm/cyber_xmake) |
 |  × | 13 | meson | 学习一下Meson看一下用来做c++构建 | [meson教程网站](https://www.techgrow.cn/posts/68d93948.html) <br> [cmake和meson的范例](https://guileen.github.io/2021/01/08/cpp-build-systems/)|
 |  × | 14 | 正则表达式 | 正则表达式的学习网站 | [正则表达式学习网站](https://mp.weixin.qq.com/s/MP2a-EXTpuyZ03PpedyA_Al)|
 |  × | 15 | docker | docker的使用 | docker run -i -t ubuntu:14.04 /bin/bash <br>docker run -i -t --name "private_container" ubuntu:14.04 /bin/bash<br>[docker的使用](https://www.cnblogs.com/klb561/p/14040705.html)<br>[使用nsenter进入Docker容器脚本](https://www.tuicool.com/articles/eYnUBrR)<br>[Docker中容器的备份、恢复和迁移](https://www.cnblogs.com/boshen-hzb/p/6373549.html)|
@@ -33,13 +33,13 @@
 |  × | 21| 记录一下vim的配置 | 记录配置 | [直接使用B站大佬的配置](https://github.com/archibate/vimrc) |
 |  × | 22| 记录一下vscode neovim的配置 | vscode和vim可以用一样的配置文件,但是可以通过 <br> if !exists('g:vscode') <br>这个字段来进行判断| [参考这个来改配置,记住不要直接用他的,会导致系统起不来]( https://github.com/sisrfeng/dot_file.git) |
 |  × | 23 | benchmark开源库-header only |用现代C++测试工具链：doctest+FakeIt+nanobench, 可以完美地替代gtest/gmock和google bench，没有任何依赖，无需安装，直接包含头文件就可以用，非常容易集成和使用，是时候抛弃google test和google bench了<br>[现代C++测试工具链](https://mp.weixin.qq.com/s/jYGi-xNHbKmlgZh1VvgaEg) |[doctest](https://github.com/doctest/doctest/blob/master/doc/markdown/benchmarks.md)<br> [FakeIt](https://github.com/eranpeer/Fake) <br>[nanobench](https://github.com/martinus/nanobench)|
-|  × | 24 | 函数式库 | 函数式库 |https://github.com/PacktPublishing/LearningCPPFunctionalProgramming|
-|  × | 25 | 引擎库 | c++引擎库 |[envtt引擎库，学习c++内存分配器](https://github.com/doctest/doctest/blob/master/doc/markdown/benchmarks.md)|
+|  DONE | 24 | 函数式库 | 函数式库 |https://github.com/PacktPublishing/LearningCPPFunctionalProgramming|
+|  todo | 25 | 引擎库 | c++引擎库 |[envtt引擎库，学习c++内存分配器](https://github.com/doctest/doctest/blob/master/doc/markdown/benchmarks.md)|
 |  × | 26 | cgraph| c++cgraph pipeline |[牛逼的popeline库](https://github.com/vsklad/cgraph)|
 |  × | 27 | Image-Processing-Node-Editor | python写的界面，算法仿真用的 |https://github.com/Kazuhito00/Image-Processing-Node-Editor|
 |  × | 28 | coost | 轻量的boost库，带协程，可用于嵌入式|https://github.com/idealvin/coost|
 |  × | 29 | 代码阅读神器 | [1.C++阅码神器cpptree.pl和calltree.pl的使用](https://zhuanlan.zhihu.com/p/339910341?utm_campaign=shareopn&utm_medium=social&utm_oi=950859626095284224&utm_psn=1546260881885081600&utm_source=wechat_session)<br>[2.开源免费的源码阅读神器 Sourcetrail](https://zhuanlan.zhihu.com/p/96685579)|
-|  × | 30 | 编译器 | 1.[AI编译器MegCC源码](https://github.com/MegEngine/MegCC)---------[MegCC介绍](https://mp.weixin.qq.com/s/_8kSUwIZHjZDnlw7_XTBWA)<br>[2.源码安装clang和llvm](https://csstormq.github.io/blog/LLVM%20%E4%B9%8B%20Clang%20%E7%AF%87%EF%BC%881%EF%BC%89%EF%BC%9A%E5%A6%82%E4%BD%95%E4%BB%8E%E6%BA%90%E7%A0%81%E6%9E%84%E5%BB%BA%E5%B9%B6%E5%AE%89%E8%A3%85%20Clang)|
+|  todo | 30 | 编译器 | 1.[AI编译器MegCC源码](https://github.com/MegEngine/MegCC)---------[MegCC介绍](https://mp.weixin.qq.com/s/_8kSUwIZHjZDnlw7_XTBWA)<br>[2.源码安装clang和llvm](https://csstormq.github.io/blog/LLVM%20%E4%B9%8B%20Clang%20%E7%AF%87%EF%BC%881%EF%BC%89%EF%BC%9A%E5%A6%82%E4%BD%95%E4%BB%8E%E6%BA%90%E7%A0%81%E6%9E%84%E5%BB%BA%E5%B9%B6%E5%AE%89%E8%A3%85%20Clang)|
 |  × | 31 | 哈希容器 | 用作graph的哈希容器| [1.hopscotch-map](https://github.com/Tessil/hopscotch-map/tree/master/include/tsl)->[文档](https://www.5axxw.com/wiki/content/fcbrfj)<br> [2.jq_dense_hash_map](https://github.com/Jiwan/dense_hash_map)->[文档](https://jguegant.github.io/blogs/tech/dense-hash-map.html#dense-hash-map)<br>|
 |  × | 31 | 现代c++库收集 | 1.[STX-c++封装成rust的类似语法](https://github.com/lamarrr/STX)<br>[2.c++20 windows版本很全的demo](https://github.com/rutura/The-C-20-Masterclass-Source-Code/tree/main/49.Modules/48.8ExportImport/ExportImport)<br>[3.c++20综合指南很少见带module的](https://github.com/utilForever/modern-cpp-next)|
 ---
