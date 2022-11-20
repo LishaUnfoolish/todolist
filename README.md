@@ -1,7 +1,7 @@
 
 ---
 # **Todo table:**
-- ==这个文件是李潇的ToDo-List==
+- ==ToDo-List==
 - ==[markdown颜色对应表](https://blog.csdn.net/qq_43732429/article/details/108034518)==
 - ==<font color=red size=2>ToDo</font>,红色代表是在家里做的==
 - ==<font color=Green size=2>ToDo</font>,绿色代表是在公司做的==
