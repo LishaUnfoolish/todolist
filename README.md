@@ -15,7 +15,8 @@ https://github.com/topics/cpp20?l=c%2B%2B&o=desc&s=stars  github c++20 most star
 [cplusplus](https://www.cplusplus.com/)<br>
 [标准委员会论文](https://open-std.org/JTC1/SC22/WG21/docs/papers/)<br>
 [cppcon](https://cppcon.org/)<br>
-[ C++ 之父 Bjarne Stroustrup 的 HOPL4 论文的中文版。]([https://cppcon.org/](https://github.com/Cpp-Club/Cxx_HOPL4_zh))<br>
+[ C++ 之父 Bjarne Stroustrup 的 HOPL4 论文的中文版。](https://github.com/Cpp-Club/Cxx_HOPL4_zh)<br>
+[c++中文参考](https://c-cpp.com/cpp/language/adl.html)<br>
 
 | ToDo | 序号 | 任务名 | 任务描述 | - |
 | --- | --- | --- | --- | --- |
