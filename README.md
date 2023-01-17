@@ -8,6 +8,13 @@
 ---
 https://github.com/topics/cpp20?l=c%2B%2B&o=desc&s=stars  github c++20 most stars
 
+[gcc官网](https://gcc.gnu.org/)
+[c++参考手册](https://en.cppreference.com/w/cpp)
+[c++教程网站](https://www.learncpp.com/)
+[标准c++](https://isocpp.org/)
+[cplusplus](https://www.cplusplus.com/)
+
+ 
 | ToDo | 序号 | 任务名 | 任务描述 | - |
 | --- | --- | --- | --- | --- |
 |  × | 1 | io_uring | 学习linux新的io驱动模型 | [c++20的协程实现的io_uring库](https://github.com/CarterLi/liburing4cpp) |
