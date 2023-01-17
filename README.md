@@ -13,7 +13,8 @@ https://github.com/topics/cpp20?l=c%2B%2B&o=desc&s=stars  github c++20 most star
 [c++教程网站](https://www.learncpp.com/)<br>
 [标准c++](https://isocpp.org/)<br>
 [cplusplus](https://www.cplusplus.com/)<br>
-[标准委员会论文]( https://open-std.org/JTC1/SC22/WG21/docs/papers/)<br>
+[标准委员会论文](https://open-std.org/JTC1/SC22/WG21/docs/papers/)<br>
+[cppcon](https://cppcon.org/)<br>
 
 | ToDo | 序号 | 任务名 | 任务描述 | - |
 | --- | --- | --- | --- | --- |
