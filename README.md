@@ -78,6 +78,8 @@ https://www.apiref.com/cpp-zh/cpp/ c++手册
     
 ## 3.
 ## 4. 
+[C++奇技淫巧之访问private成员](http://jiangzhuti.me/posts/C++%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7%E4%B9%8B%E8%AE%BF%E9%97%AEprivate%E6%88%90%E5%91%98)
+[c++指针奇技淫巧](https://zh.cppreference.com/w/cpp/language/pointer#Pointers_to_data_members)
 ## 5. 
 ## 6.
 ## 7. 
