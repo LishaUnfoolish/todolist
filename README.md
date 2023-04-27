@@ -20,6 +20,9 @@ https://github.com/topics/cpp20?l=c%2B%2B&o=desc&s=stars  github c++20 most star
 [abseil tipsc++手册](https://abseil.io/tips/168)<br>
 [在线源码编辑器](https://codebrowser.dev/)<br>
 [libc++源码手册](https://gcc.gnu.org/onlinedocs/libstdc++/)<br>
+[gcc编译器参数和属性大全](https://gcc.gnu.org/onlinedocs/gcc/index.html)<br>
+
+
 | ToDo | 序号 | 任务名 | 任务描述 | - |
 | --- | --- | --- | --- | --- |
 |  × | 1 | io_uring | 学习linux新的io驱动模型 | [c++20的协程实现的io_uring库](https://github.com/CarterLi/liburing4cpp) |
